@@ -1,0 +1,11 @@
+html.ie .home_header .headerContent {
+	display: block;
+	padding-top: 80px;
+}
+html.ie .benefits-header .headerContent,
+html.ie .pricing-header .headerContent,
+html.ie .gallery-header .headerContent,
+html.ie .blog-header .headerContent {
+	display: block;
+	padding-top: 72px;
+}

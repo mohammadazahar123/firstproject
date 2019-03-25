@@ -1,0 +1,236 @@
+@font-face {
+  font-family: 'rf_font';
+  src:  url('../fonts/rf_font.eot?nervhka');
+  src:  url('../fonts/rf_font.eot?nervhka#iefix') format('embedded-opentype'),
+    url('../fonts/rf_font.ttf?nervhka') format('truetype'),
+    url('../fonts/rf_font.woff?nervhka') format('woff'),
+    url('../fonts/rf_font.svg?nervhka#rf_font') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="rf_icon"], [class*=" rf_icon"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'rf_font' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.rf_iconvideo_holder:before {
+  content: "\e93f";
+}
+.rf_iconcategory:before {
+  content: "\e940";
+}
+.rf_iconduration:before {
+  content: "\e941";
+}
+.rf_iconlove_fill:before {
+  content: "\e93e";
+}
+.rf_iconlove:before {
+  content: "\e93c";
+}
+.rf_icontags:before {
+  content: "\e93d";
+}
+.rf_iconchange_image:before {
+  content: "\e92e";
+}
+.rf_iconcheck_mark:before {
+  content: "\e92f";
+}
+.rf_iconfill_image:before {
+  content: "\e930";
+}
+.rf_iconfit_image:before {
+  content: "\e931";
+}
+.rf_iconforward:before {
+  content: "\e932";
+}
+.rf_iconmicrophone:before {
+  content: "\e933";
+}
+.rf_iconmove_scene:before {
+  content: "\e934";
+}
+.rf_iconmusic_note:before {
+  content: "\e935";
+}
+.rf_iconpause:before {
+  content: "\e936";
+}
+.rf_iconrotate_left:before {
+  content: "\e937";
+}
+.rf_iconrotate_right:before {
+  content: "\e938";
+}
+.rf_icontrash_can:before {
+  content: "\e939";
+}
+.rf_iconzoom_in:before {
+  content: "\e93a";
+}
+.rf_iconzoom_out:before {
+  content: "\e93b";
+}
+.rf_iconfacebook_simple:before {
+  content: "\e929";
+}
+.rf_icongoogle_plus_simple:before {
+  content: "\e92a";
+}
+.rf_iconpinterest_simple:before {
+  content: "\e92b";
+}
+.rf_icontumblr_simple:before {
+  content: "\e92c";
+}
+.rf_icontwitter_simple:before {
+  content: "\e92d";
+}
+.rf_iconback:before {
+  content: "\e900";
+}
+.rf_iconcancel:before {
+  content: "\e901";
+}
+.rf_iconcheck:before {
+  content: "\e902";
+}
+.rf_icondownload:before {
+  content: "\e903";
+}
+.rf_icondownload2:before {
+  content: "\e904";
+}
+.rf_icondrop-down:before {
+  content: "\e905";
+}
+.rf_icondropbox_color:before {
+  content: "\e906";
+}
+.rf_icondropbox_editor:before {
+  content: "\e907";
+}
+.rf_iconedit:before {
+  content: "\e908";
+}
+.rf_iconfacebook_editor:before {
+  content: "\e909";
+}
+.rf_iconfacebook-2:before {
+  content: "\e90a";
+}
+.rf_iconfacebook-logo:before {
+  content: "\e90b";
+}
+.rf_iconfacebook:before {
+  content: "\e90c";
+}
+.rf_iconfolder:before {
+  content: "\e90d";
+}
+.rf_icongoogle_plus:before {
+  content: "\e90e";
+}
+.rf_icongoogle-plus_editor:before {
+  content: "\e90f";
+}
+.rf_iconhelp:before {
+  content: "\e910";
+}
+.rf_iconleft-arrow:before {
+  content: "\e911";
+}
+.rf_iconminus:before {
+  content: "\e912";
+}
+.rf_iconmove_to:before {
+  content: "\e913";
+}
+.rf_iconnew-google .path1:before {
+  content: "\e914";
+  color: rgb(255, 255, 255);
+}
+.rf_iconnew-google .path2:before {
+  content: "\e915";
+  margin-left: -1.6494140625em;
+  color: rgb(234, 67, 53);
+}
+.rf_iconnew-google .path3:before {
+  content: "\e916";
+  margin-left: -1.6494140625em;
+  color: rgb(251, 188, 5);
+}
+.rf_iconnew-google .path4:before {
+  content: "\e917";
+  margin-left: -1.6494140625em;
+  color: rgb(66, 133, 244);
+}
+.rf_iconnew-google .path5:before {
+  content: "\e918";
+  margin-left: -1.6494140625em;
+  color: rgb(52, 168, 83);
+}
+.rf_iconnoun_684455_cc:before {
+  content: "\e919";
+}
+.rf_iconpencil:before {
+  content: "\e91a";
+}
+.rf_iconpinterest-logo:before {
+  content: "\e91b";
+}
+.rf_iconplay_button:before {
+  content: "\e91c";
+}
+.rf_iconplay:before {
+  content: "\e91d";
+}
+.rf_iconplus:before {
+  content: "\e91e";
+}
+.rf_iconpreview:before {
+  content: "\e91f";
+}
+.rf_iconpublish:before {
+  content: "\e920";
+}
+.rf_iconright-arrow:before {
+  content: "\e921";
+}
+.rf_iconsearch:before {
+  content: "\e922";
+}
+.rf_iconshare:before {
+  content: "\e923";
+}
+.rf_icontumblr-logo-button:before {
+  content: "\e924";
+}
+.rf_icontwitter-logo:before {
+  content: "\e925";
+}
+.rf_iconupload:before {
+  content: "\e926";
+}
+.rf_iconvideo:before {
+  content: "\e927";
+}
+.rf_iconyoutube:before {
+  content: "\e928";
+}
+.rf_icondublicate:before {
+  content: "\e942";
+}
